@@ -1,0 +1,6 @@
+[COLOR red][B]base v1.0.2[/B]
+Updated Scrapers.
+[COLOR red][B]base v1.0.1[/B]
+base addon by Breezz.
+Faster and smaller.
+

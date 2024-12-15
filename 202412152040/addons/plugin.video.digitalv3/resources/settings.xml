@@ -1,0 +1,11 @@
+<settings>
+<category label="General">
+	<setting id="Username" type="text" label="Username" default=""/>
+	<setting id="Password" type="text" label="Password" default=""/>
+	<setting id="meta" type="bool" label="Movies Meta" default="true"/>
+	<!--
+	<setting id="epg" type="bool" label="Now/Next EPG" default="false"/>
+	-->
+	<setting id="hidexxx" type="bool" label="XXX Channels" default="false"/>
+</category>
+</settings>
